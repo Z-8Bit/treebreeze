@@ -1,5 +1,5 @@
 # :tea: Tea Green
-### Startpage with Weather and To-Do List features
+### Startpage with my favourite shortcuts and To-Do List features
 
 ![Preview](https://github.com/sadparadiseinhell/tea-green/blob/main/assets/tea-green-preview.png)
 
@@ -7,7 +7,6 @@
 - [Features](#features)
 - [Settings](#settings)
   - [Links](#links)
-  - [Weather Setting](#weather-setting)
 
 ## Features
 - **Dark/Light Theme** changes depending on the time of day, you can also switch it manually
@@ -24,10 +23,3 @@ To add your own link to your favorite site, you just need to add a line to the H
   <i class="fab fa-reddit"></i>
 </a>
 ```
-
-### Weather Setting
-To display the weather you need to have a free API key, which can be obtained from the [OpenWeatherMap](https://openweathermap.org/api) website.
-
-> If you generated a **new** API key and the weather doesn't work, then try to wait for a while until the key is activated.
-
-As weather icons I used icons from [this project](https://github.com/erikflowers/weather-icons#readme).
