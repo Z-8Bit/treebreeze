@@ -2,13 +2,7 @@
 @import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@400;600&display=swap|Noto+Sans|Open+Sans:wght@300;400;700|Roboto:400&display=swap&subset=cyrillic');
 
-/* Weather icon styles */
-@import url('../css/weather-icons-wind.css');
-@import url('../css/weather-icons.css');
-
-/* Weather and To-Do List styles */
 @import url('../css/todolist-style.css');
-@import url('../css/weather-style.css');
 
 /* Light theme */
 :root {
@@ -24,12 +18,6 @@
 	--foreground: #7a8c70;
 	--header: #5C6657;
 	--card-bg: #c1ecac;
-
-	--weather-fg: #C5CAE9;
-	--weather-bg: #3c4b96;
-	--weather-icon: #E8EAF6;
-	--weather-temp: #C5CAE9;
-	--weather-description: #9FA8DA;
 
 	--todo-bg: #f2e69d;
 	--todo-fg: #807a53;
@@ -48,12 +36,6 @@
 	--foreground: #858585;
 	--header: #A8A8A8;
 	--card-bg: #1c1d1f;
-
-	--weather-fg: #BDBDBD;
-	--weather-bg: var(--card-bg);
-	--weather-icon: #E0E0E0;
-	--weather-temp: var(--weather-fg);
-	--weather-description: #9E9E9E;
 
 	--todo-bg: var(--card-bg);
 	--todo-fg: #a6a6a6;
@@ -98,12 +80,6 @@ input[type="checkbox"] {display: none;}
 	border-radius: 8px;
 	box-shadow: 0px 2px 25px var(--card-shadow-color);
 	transition: background-color .7s, box-shadow .7s;
-}
-
-.weather-card-color {
-	background: var(--weather-bg);
-	box-shadow: 0px 2px 20px rgba(0, 0, 0, 0.45);
-	transition: background-color 1s, box-shadow 1s;
 }
 
 .todo-card-color {
@@ -231,7 +207,6 @@ input[id="searchbox"]:hover::placeholder {
 }
 
 .btn_theme,
-.btn_weather,
 .btn_todo {
 	margin: 5px 0px;
 }
