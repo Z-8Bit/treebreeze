@@ -1,8 +1,8 @@
 # Tree Breeze
 ### Startpage with my favourite shortcuts and To-Do List features
 
-![image] (assets/treebreeze-card-preview.png)
-![image] (assets/treebreeze-todo-preview.png)
+![image](assets/treebreeze-card-preview.png)
+![image](assets/treebreeze-todo-preview.png) 
 
 ## Features
 - **Dark/Light Theme** changes depending on the time of day, you can also switch it manually.
