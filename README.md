@@ -1,3 +1,5 @@
+![image](assets/treebreeze-card-preview.png)
+
 # Tree Breeze
 ### Startpage with my favourite shortcuts and To-Do List features
 
