@@ -62,9 +62,9 @@ input[id="todo"]:hover::placeholder {
 
 .chb_todo + label::before {color: #374259;}
 
-.chb_todo + label:hover::before {color: #99ffc1;}
+.chb_todo + label:hover::before {color: #96f8f4;}
 
-.chb_todo:checked + label::before {color: #99ffc1;}
+.chb_todo:checked + label::before {color: #96f8f4;}
 
 .chb_todo:checked + label:hover::before {color: #374259;}
 
@@ -161,14 +161,14 @@ ul {
 }
 
 .todo-item:hover .tick:hover::before {
-	color: #95ff8f;
+	color: #96f8f4;
 	display: inline;
 	opacity: 1;
 	transition: .3s;
 }
 
 .done .tick::before {
-	color: #95ff8f;
+	color: #96f8f4;
 	opacity: 0;
 }
 
