@@ -1,8 +1,7 @@
 # Tree Breeze
 ### Startpage with my favourite shortcuts and To-Do List features
 
-![image](https://user-images.githubusercontent.com/72144072/151652458-c3cd65ff-07d7-453a-bce9-f262d36ff2ad.png)
-![image](https://user-images.githubusercontent.com/72144072/151652488-7c932c05-1ab8-437c-899f-dc653d9f5598.png)
+![image](https://user-images.githubusercontent.com/72144072/151652748-aee7dec1-42f6-4278-8d14-51382e826ca0.png)
 ![image](https://user-images.githubusercontent.com/72144072/151652546-9b907693-74d7-4c03-a707-81365adf8829.png)
 ![image](https://user-images.githubusercontent.com/72144072/151652536-dde4104c-1216-42a8-89b6-41afd5427516.png)
 
