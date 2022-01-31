@@ -1,8 +1,7 @@
-![image](assets/treebreeze-card-preview.png)
-
 # Tree Breeze
 ### Startpage with my favourite shortcuts and To-Do List features
 
+![image](assets/treebreeze-card-preview.png)
 ![image](assets/treebreeze-todo-preview.png) 
 
 ## Features
@@ -13,4 +12,5 @@
 ## Other Startpages of mine.
 - [CloudySnowflake](https://github.com/Z-8Bit/cloudysnowflake) : The same startpage as this but with an alternate colour scheme.
 - [OceanBliss](https://github.com/Z-8Bit/oceanbliss) : A simpler and faster startpage with bigger buttons.
+- [SimplySucculent](https://github.com/Z-8Bit/cloudysnowflake) : A minimal startpage with search and shortcuts.
 
